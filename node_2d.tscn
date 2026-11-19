@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://d18thu5ll1dvq"]
+
+[ext_resource type="Script" uid="uid://2di4xmdol6fv" path="res://addons/godot-git-plugin/lib/animated_sprite_2d.gd" id="1_wtcfe"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_g4v7s"]
+
+[node name="Node2D" type="Node2D" unique_id=1276064723]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=173078072]
+sprite_frames = SubResource("SpriteFrames_g4v7s")
+script = ExtResource("1_wtcfe")
