@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://d18thu5ll1dvq"]
 
-[ext_resource type="Script" uid="uid://2di4xmdol6fv" path="res://addons/godot-git-plugin/lib/animated_sprite_2d.gd" id="1_wtcfe"]
+[ext_resource type="Script" uid="uid://2di4xmdol6fv" path="res://animated_sprite_2d.gd" id="1_wtcfe"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_g4v7s"]
 
